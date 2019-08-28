@@ -1,0 +1,56 @@
+{
+	"test": {
+		"country": [
+			{
+				"id": 0,
+				"countryCode": "CN",
+				"countryDigitCode": "156",
+				"countryName": "中国",
+				"language": "zh-CN",
+				"timeZone": "UTC+8",
+				"dateStyle": "1",
+				"monetaryUnit": "元"
+			},
+			{
+				"id": 1,
+				"countryCode": "CN",
+				"countryDigitCode": "157",
+				"countryName": "中国台湾",
+				"language": "zh-TW",
+				"timeZone": "UTC+8",
+				"dateStyle": "1",
+				"monetaryUnit": "元"
+			},
+			{
+				"id": 2,
+				"countryCode": "CN",
+				"countryDigitCode": "158",
+				"countryName": "新加坡",
+				"language": "zh-SG",
+				"timeZone": "UTC+8",
+				"dateStyle": "1",
+				"monetaryUnit": "元"
+			},
+			{
+				"id": 3,
+				"countryCode": "CN",
+				"countryDigitCode": "159",
+				"countryName": "中国香港",
+				"language": "zh-HK",
+				"timeZone": "UTC+8",
+				"dateStyle": "1",
+				"monetaryUnit": "元"
+			},
+			{
+				"id": 4,
+				"countryCode": "CN",
+				"countryDigitCode": "160",
+				"countryName": "中国澳门",
+				"language": "zh-MO",
+				"timeZone": "UTC+8",
+				"dateStyle": "1",
+				"monetaryUnit": "元"
+			}
+		]
+	}
+}
