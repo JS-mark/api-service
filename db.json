@@ -104,14 +104,14 @@
         "likeDishCount": 6,
         "likeDishNum": 43,
         "orderCountry": "杭州市-1,杭d市-2,杭w市-3,杭e市-4,杭3市-5",
-        "latestOrderTime": "",
-        "singleOrderTime": "",
+        "latestOrderTime": "2020-09-12 12:00:23",
+        "singleOrderTime": "2019-12-12 12:00:23",
         "guoName": "1",
         "headImg": "https://hdl-emas-app-bucket.oss-cn-beijing.aliyuncs.com/app/user/header/D91E8C03F44A4A46A040034C234CD681-1125-1125.png",
         "nickName": "刚进你几级哈",
-        "level": 1,
+        "level": 2,
         "billCount": 10000,
-        "isConsume": 3
+        "isConsume": 1
       }
     }
   }
