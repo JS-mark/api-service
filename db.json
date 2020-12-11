@@ -1,118 +1,77 @@
 {
   "test": {
-    "country": [
+    "module": [
       {
-        "id": 0,
-        "countryCode": "CN",
-        "countryDigitCode": "156",
-        "countryName": "中国",
-        "language": "zh-CN",
-        "timeZone": "UTC+8",
-        "dateStyle": "1",
-        "monetaryUnit": "元"
-      },
-      {
-        "id": 1,
-        "countryCode": "CN",
-        "countryDigitCode": "157",
-        "countryName": "中国台湾",
-        "language": "zh-TW",
-        "timeZone": "UTC+8",
-        "dateStyle": "1",
-        "monetaryUnit": "元"
-      },
-      {
-        "id": 2,
-        "countryCode": "CN",
-        "countryDigitCode": "158",
-        "countryName": "新加坡",
-        "language": "zh-SG",
-        "timeZone": "UTC+8",
-        "dateStyle": "1",
-        "monetaryUnit": "元"
-      },
-      {
-        "id": 3,
-        "countryCode": "CN",
-        "countryDigitCode": "159",
-        "countryName": "中国香港",
-        "language": "zh-HK",
-        "timeZone": "UTC+8",
-        "dateStyle": "1",
-        "monetaryUnit": "元"
-      },
-      {
-        "id": 4,
-        "countryCode": "CN",
-        "countryDigitCode": "160",
-        "countryName": "中国澳门",
-        "language": "zh-MO",
-        "timeZone": "UTC+8",
-        "dateStyle": "1",
-        "monetaryUnit": "元"
+        "ret": 1,
+        "data": {
+          "modules": [
+            {
+              "moduleId": 1,
+              "type": "preview-before-class",
+              "content": "Duis",
+              "extra": "mollit dolore dolore irure",
+              "config": {
+                "stars": 1,
+                "nums": 1,
+                "elementConfig": [
+                  {
+                    "id": 1,
+                    "star": 1
+                  },
+                  {
+                    "id": 2,
+                    "star": 1
+                  },
+                  {
+                    "id": 3,
+                    "star": 1
+                  },
+                  {
+                    "id": 4,
+                    "star": 0
+                  },
+                  {
+                    "id": 5,
+                    "star": 0
+                  }
+                ]
+              }
+            },
+            {
+              "moduleId": 2,
+              "type": "pre-class-interaction",
+              "content": "Duis",
+              "extra": "mollit dolore dolore irure",
+              "config": {
+                "stars": 1,
+                "nums": 1,
+                "elementConfig": [
+                  {
+                    "id": 1,
+                    "star": 1
+                  },
+                  {
+                    "id": 2,
+                    "star": 1
+                  },
+                  {
+                    "id": 3,
+                    "star": 1
+                  },
+                  {
+                    "id": 4,
+                    "star": 0
+                  },
+                  {
+                    "id": 5,
+                    "star": 0
+                  }
+                ]
+              }
+            }
+          ]
+        }
       }
-    ],
-    "warning": {
-      "status": 0,
-      "data": {
-        "id": 0,
-        "type": 0,
-        "department": "会员运营部",
-        "contactName": "杨晓楠",
-        "contactPhone": "18600290021",
-        "creatorId": 678099,
-        "createTime": 1574924074942,
-        "modifierId": 68969,
-        "modifyTime": 1574924074942,
-        "dr": "0"
-      }
-    }
-  },
-  "api": {
-    "query_": {
-      "success": true,
-      "code": "ok",
-      "data": {
-        "topSign": 1,
-        "memberId": "n-700133",
-        "regTime": "2014-03-29 12:39:09",
-        "regDate": 2105,
-        "orderTime": "2015-12-23 19:03:24",
-        "firstCity": "上海市",
-        "firstStoreName": "人民广场店",
-        "firstScore": 383,
-        "firstOrderDish1": "捞派巴沙鱼片",
-        "firstOrderDish2": "翡翠墨鱼滑",
-        "firstOrderDish3": "菌类组合",
-        "firstOrderDishUrl1": "http://haidilao.oss-cn-beijing.aliyuncs.com/dev/upload/c3211437-5086-43df-a021-9f577b48b432.jpg",
-        "firstOrderDishUrl2": "http://haidilao.oss-cn-beijing.aliyuncs.com/dev/upload/b53b9d50-cd6a-493a-b220-5f700101ceea.jpg",
-        "firstOrderDishUrl3": "http://haidilao.oss-cn-beijing.aliyuncs.com/dev/upload/2f5e84a0-2379-4fb4-adf0-c5d741dc6b7610020017_3.png",
-        "pay2019": 1000,
-        "score": 870,
-        "percent2019": 0.2676,
-        "historyOrderPay": 1550,
-        "oneDishName": "捞派捞面",
-        "oneDishCount": 3,
-        "oneDishUrl": "http://haidilao.oss-cn-beijing.aliyuncs.com/dev/upload/8524b825-a907-49c0-96b8-1e2a8ffd585a.jpg",
-        "twoDishName": "年糕",
-        "twoDishCount": 1,
-        "twoDishUrl": "http://haidilao.oss-cn-beijing.aliyuncs.com/dev/upload/0fe874b9-c0bd-44a1-bcce-76e6c5384491.jpg",
-        "threeDishName": "新西兰羊肉",
-        "threeDishCount": 1,
-        "threeDishUrl": "http://haidilao.oss-cn-beijing.aliyuncs.com/dev/upload/49e22b8a-b584-4ab0-a776-5199434794a7.jpg",
-        "likeDishType": "13",
-        "likeDishCount": 6,
-        "likeDishNum": 43,
-        "orderCountry": "杭州市-1,杭d市-2,杭w市-3,杭e市-4,杭3市-5",
-        "latestOrderTime": "2020-09-12 12:00:23",
-        "singleOrderTime": "2019-12-12 12:00:23",
-        "guoName": "1",
-        "headImg": "https://hdl-emas-app-bucket.oss-cn-beijing.aliyuncs.com/app/user/header/D91E8C03F44A4A46A040034C234CD681-1125-1125.png",
-        "nickName": "刚进你几级哈",
-        "level": 2,
-        "billCount": 10000,
-        "isConsume": 1
-      }
-    }
+    ]
   }
 }
